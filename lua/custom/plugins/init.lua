@@ -1,5 +1,15 @@
--- You can add your own plugins here or in other files in this directory!
---  I promise not to create any merge conflicts in this directory :)
---
--- See the kickstart.nvim README for more information
 return {}
+--require("plugins.remaps")
+--require("plugins.treesitter")
+--require("plugins.telescope")
+--require("plugins.undotree")
+--require("plugins.lualine")
+--require("plugins.lsp_config")
+--require("plugins.moonfly")
+
+-- require("core.keymaps")
+-- require("core.lazy")
+-- require("core.telescope")
+-- require("core.lsp")
+-- require("plugins.lualine")
+-- require("plugins.lsp_config")
